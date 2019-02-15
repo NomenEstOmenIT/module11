@@ -12,10 +12,10 @@
 }
 
 .layer {
-    background-image: -webkit-gradient(linear, left top, left bottom, from(#d9660890), to(#e0e40e84)), url(../img/Layer15@1X.png);
-    background-image: -webkit-linear-gradient(top, #d9660890, #e0e40e84), url(../img/Layer15@1X.png);
-    background-image: -o-linear-gradient(top, #d9660890, #e0e40e84), url(../img/Layer15@1X.png);
-    background-image: linear-gradient(to bottom, #d9660890, #e0e40e84), url(../img/Layer15@1X.png);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#d9660890), to(#e0e40e84)), url(../images/Layer15@1X.png);
+    background-image: -webkit-linear-gradient(top, #d9660890, #e0e40e84), url(../images/Layer15@1X.png);
+    background-image: -o-linear-gradient(top, #d9660890, #e0e40e84), url(../images/Layer15@1X.png);
+    background-image: linear-gradient(to bottom, #d9660890, #e0e40e84), url(../images/Layer15@1X.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -26,10 +26,10 @@
 (-o-min-device-pixel-ratio: 2/1),
 (min-resolution: 192dpi) {
     .layer {
-        background-image: -webkit-gradient(linear, left top, left bottom, from(#d9660890), to(#e0e40e84)), url(../img/Layer15@2X.png);
-        background-image: -webkit-linear-gradient(top, #d9660890, #e0e40e84), url(../img/Layer15@2X.png);
-        background-image: -o-linear-gradient(top, #d9660890, #e0e40e84), url(../img/Layer15@2X.png);
-        background-image: linear-gradient(to bottom, #d9660890, #e0e40e84), url(../img/Layer15@2X.png);
+        background-image: -webkit-gradient(linear, left top, left bottom, from(#d9660890), to(#e0e40e84)), url(../images/Layer15@2X.png);
+        background-image: -webkit-linear-gradient(top, #d9660890, #e0e40e84), url(../images/Layer15@2X.png);
+        background-image: -o-linear-gradient(top, #d9660890, #e0e40e84), url(../images/Layer15@2X.png);
+        background-image: linear-gradient(to bottom, #d9660890, #e0e40e84), url(../images/Layer15@2X.png);
         background-position: center center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -454,10 +454,10 @@ span {
 }
 
 .layer {
-    background-image: -webkit-gradient(linear, left top, left bottom, from(#d9660890), to(#e0e40e84)), url(../img/Layer15@1X.png);
-    background-image: -webkit-linear-gradient(top, #d9660890, #e0e40e84), url(../img/Layer15@1X.png);
-    background-image: -o-linear-gradient(top, #d9660890, #e0e40e84), url(../img/Layer15@1X.png);
-    background-image: linear-gradient(to bottom, #d9660890, #e0e40e84), url(../img/Layer15@1X.png);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#d9660890), to(#e0e40e84)), url(../images/Layer15@1X.png);
+    background-image: -webkit-linear-gradient(top, #d9660890, #e0e40e84), url(../images/Layer15@1X.png);
+    background-image: -o-linear-gradient(top, #d9660890, #e0e40e84), url(../images/Layer15@1X.png);
+    background-image: linear-gradient(to bottom, #d9660890, #e0e40e84), url(../images/Layer15@1X.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -468,10 +468,10 @@ span {
 (-o-min-device-pixel-ratio: 2/1),
 (min-resolution: 192dpi) {
     .layer {
-        background-image: -webkit-gradient(linear, left top, left bottom, from(#d9660890), to(#e0e40e84)), url(../img/Layer15@2X.png);
-        background-image: -webkit-linear-gradient(top, #d9660890, #e0e40e84), url(../img/Layer15@2X.png);
-        background-image: -o-linear-gradient(top, #d9660890, #e0e40e84), url(../img/Layer15@2X.png);
-        background-image: linear-gradient(to bottom, #d9660890, #e0e40e84), url(../img/Layer15@2X.png);
+        background-image: -webkit-gradient(linear, left top, left bottom, from(#d9660890), to(#e0e40e84)), url(../images/Layer15@2X.png);
+        background-image: -webkit-linear-gradient(top, #d9660890, #e0e40e84), url(../images/Layer15@2X.png);
+        background-image: -o-linear-gradient(top, #d9660890, #e0e40e84), url(../images/Layer15@2X.png);
+        background-image: linear-gradient(to bottom, #d9660890, #e0e40e84), url(../images/Layer15@2X.png);
         background-position: center center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -629,6 +629,7 @@ span {
     width: 26px;
     height: 26px;
     fill: #f38181;
+    display: block;
 }
 
 
